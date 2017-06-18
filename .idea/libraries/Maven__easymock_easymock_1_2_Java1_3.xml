@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="Maven: easymock:easymock:1.2_Java1.3">
+    <ANNOTATIONS>
+      <root url="file://$MAVEN_REPOSITORY$/junit" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/easymock/easymock/1.2_Java1.3/easymock-1.2_Java1.3.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/junit" />
+      <root url="file://$MAVEN_REPOSITORY$/junit" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/easymock/easymock/1.2_Java1.3/easymock-1.2_Java1.3-javadoc.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/junit" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$MAVEN_REPOSITORY$/junit" />
+    </NATIVE>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/easymock/easymock/1.2_Java1.3/easymock-1.2_Java1.3-sources.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/junit" />
+      <root url="file://$MAVEN_REPOSITORY$/junit" />
+    </SOURCES>
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/junit" recursive="false" />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/junit" recursive="false" type="SOURCES" />
+  </library>
+</component>
